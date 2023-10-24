@@ -78,9 +78,10 @@ C'mon, c'mon
 He won't listen to me ...
 C'mon, c'mon
 He won't listen to me ...
+```
+### 3. What's The Buzz
 
-### What's The Buzz
-
+```
 APOSTLES
 
 What's the buzz?
@@ -140,7 +141,7 @@ What's the buzz?
 Tell me what's happening. (Repeat many times) 
 ```
 
-### 3. Then We Are Decided
+### 4. Then We Are Decided
 
 ```
 CAIAPHAS
@@ -212,7 +213,7 @@ ANNAS
 Then we are decided. 
 
 ```
-### 4. Strange Thing Mystifying
+### 5. Strange Thing Mystifying
 ```
 JUDAS
 
@@ -264,7 +265,7 @@ JESUS
 Not one, not one of you! 
 ```
 
-### 5. Everything's Alright
+### 6. Everything's Alright
 ```
 MARY MAGDALENE
 
@@ -343,7 +344,7 @@ MARY MAGDALENE
 
 Close your eyes, close your eyes, and relax 
 ```
-### 6. This Jesus Must Die
+### 7. This Jesus Must Die
 ```
 PRIEST ONE
 
@@ -494,7 +495,7 @@ ALL (inside)
 Must die, must die, this Jesus must, Jesus must, Jesus must die! 
 ```
 
-### 7. Hosanna
+### 8. Hosanna
 ```
 CROWD
 
@@ -562,7 +563,7 @@ CROWD (alone)
 Hey JC, JC won't you die for me?
 Sanna Hosanna Hey Superstar 
 ```
-### 8. Simon Zealotes
+### 9. Simon Zealotes
 ```
 CROWD
 
@@ -643,7 +644,7 @@ You'll get the power and the glory
 For ever and ever and ever
 Forever Amen! Amen! Amen!
 ```
-### 9. Poor Jerusalem
+### 10. Poor Jerusalem
 ```
 JESUS
 
@@ -663,7 +664,7 @@ While you live, your troubles are many, poor Jerusalem.
 To conquer death, you only have to die.
 You only have to die.
 ```
-### 10. Pilate's Dream
+### 11. Pilate's Dream
 ```
 PILATE
 
@@ -684,7 +685,7 @@ Crying for this man.
 And then I heard them mentioning my name,
 And leaving me the blame.
 ```
-### 11. The Temple
+### 12. The Temple
 ```
 MONEYCHANGERS AND MERCHANTS
 
@@ -733,7 +734,7 @@ My temple should be a house of prayer,
 But you have made it a den of thieves.
 Get out! Get out!
 ```
-### 12. Lepers
+### 13. Lepers
 ```
 My time is almost through.
 Little left to do.
@@ -778,7 +779,7 @@ There's too little of me...Don't crowd me.
  
 Heal yourselves +
 ```
-### 13. I Don't Know How To Love Him
+### 14. I Don't Know How To Love Him
 ```
 MARY MAGDALENE
 
@@ -817,7 +818,7 @@ He scares me so.
 I want him so.
 I love him so.
 ```
-### 14. Damned For All Time/Blood Money
+### 15. Damned For All Time/Blood Money
 ```
 JUDAS
 
@@ -1306,7 +1307,7 @@ Hey J.C., J.C. please explain to me,
 You had everything.
 Where is it now?
 ```
-### 7. King Herod's Song (Try It And See)
+### 6. King Herod's Song (Try It And See)
 ```
 HEROD
 
@@ -1355,7 +1356,7 @@ Get out of here!
 Get out of here you,
 Get out of my life.
 ```
-### 8. Could We Start Again Please?
+### 7. Could We Start Again Please?
 ```
 MARY MAGDALENE
 
@@ -1396,7 +1397,7 @@ MARY MAGDALENE
 
 Could we start again?
 ```
-### 9. Judas' Death
+### 8. Judas' Death
 ```
 JUDAS
 
@@ -1456,7 +1457,7 @@ JUDAS
 
 You have murdered me.
 ```
-### 10. Trial Before Pilate
+### 9. Trial Before Pilate
 ```
 PILATE
 
@@ -1651,7 +1652,7 @@ Die if you want to, you misguided martyr.
 I wash my hands of your demolition.
 Die if you want to you innocent puppet!
 ```
-### 11. Superstar
+### 10. Superstar
 ```
 VOICE OF JUDAS
 
@@ -1692,9 +1693,9 @@ Who are you? What have you sacrificed?
 Jesus Christ Superstar,
 Do you think you're what they say you are?
 (Repeat many times)
-
-### The Crucifixion
-
+```
+### 11. The Crucifixion
+```
 JESUS
 
 Father forgive them.
